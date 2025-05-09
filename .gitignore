@@ -1,0 +1,93 @@
+###############
+# Visual Studio
+###############
+
+# Carpetas de compilación
+[Bb]in/
+[Oo]bj/
+**/bin/
+**/obj/
+
+# Archivos de VS
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Carpeta oculta de VS (config local)
+.vs/
+
+# Archivos de configuración de build
+*.cache
+*.dbmdl
+*.bak
+*.log
+
+# Archivos de salida
+*.exe
+*.dll
+*.pdb
+*.xml
+
+# Archivos generados
+*.Build.Caches/
+*.g.*
+*.generated.cs
+*.csproj.FileList.txt
+*.csproj.GenerateResource.cache
+*.csprojAssemblyReference.cache
+
+# Archivos del diseñador
+*.resources
+*_i.c
+*_p.c
+*_h.h
+*.designer.cs
+
+# Archivos del depurador
+*.vshost.*
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+##################
+# Herramientas comunes
+##################
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+**/packages/*
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+*~
+
+# Archivos de respaldo
+*.old
+*.orig
+*.rej
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Archivos de pruebas (por si luego agregás tests)
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
