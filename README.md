@@ -49,7 +49,7 @@ git clone https://github.com/Johao-dev/sale-system-with-csharp.git
 - Modifica la cadena conexión para apuntar a tu instancia de SQL Server.
 
 Está es una imagen del modelo de la base de datos:
-> Agregar Imagen
+![Imagen del modelo de la base de datos](/img/modelo_bd.png "Modelo de la base de datos")
 
 Como paso previo, te recomiendo crear la base de datos ejecutando el
 archivo `database.sql` en tu instancia de SQL Server.
